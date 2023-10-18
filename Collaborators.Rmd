@@ -1,0 +1,19 @@
+---
+title: "People"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+# Supervisors
+
+[Silvia Brem](https://www.kjpd.uzh.ch/de/multimod/neuroimaging/team/brem.html)

@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
+    - text: "Collaborators"
+      href: Collaborators.html
     - text: "Links"
       href: Links.html
     - text: "Publications"
