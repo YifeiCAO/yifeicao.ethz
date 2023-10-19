@@ -1,0 +1,19 @@
+---
+title: "Research"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+# [Neural Pasis of multisensory learning and processing during child development (ChildBrainCircuits)](https://www.adabd.uzh.ch/en/research/path3.html)
+
+

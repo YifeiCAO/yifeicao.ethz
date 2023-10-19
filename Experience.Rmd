@@ -1,0 +1,33 @@
+---
+title: "Experience"
+output: html_document
+---
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+### Master Studies
+
+#### Neuroscience Center Zurich (ZNZ)
+
+<img src="images/znzlogo.jpeg" alt="ZNZ Logo" width = "400">
+
+At present, I study Interdisciplinary Brain Science at both University of Zurich and ETH Zurich. The program covers three main blocks 
+
+#### IDG/McGOVERN Instute for Brain Research (Beijing Normal University)
+
+<img src="images/IDG_logo.png" alt="ZNZ Logo" width = "400">
+
+From 2021 to 2023, I studied cognitive neuroscience in the master program at Beijing Normal University
+
+</div>
+<div class="col-sm-6">
+
+### Undergraduate Studies
+
+#### Northeast Normal University
+
+<img src="images/nenu.jpeg" alt="ZNZ Logo" width = "400">
+
+From 2017 to 2021, I studied in Northeast Normal University, majoring in Psychology.
+

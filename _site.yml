@@ -1,13 +1,13 @@
-name: "MyLabJournal"
+name: "yifeicao_ethz"
 navbar:
-  title: "MyLabJournal"
+  title: "Yifei Cao"
   left:
     - text: "Home"
       href: index.html
-    - text: "Collaborators"
-      href: Collaborators.html
-    - text: "Links"
-      href: Links.html
+    - text: "Research"
+      href: Research.html
+    - text: "Rxperience"
+      href: Experience.html
     - text: "Publications"
       href: Publications.html
 output_dir: "docs"
