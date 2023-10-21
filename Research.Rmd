@@ -14,6 +14,18 @@ output: html_document
 
 </style>
 
-# [Neural Pasis of multisensory learning and processing during child development (ChildBrainCircuits)](https://www.adabd.uzh.ch/en/research/path3.html)
+<img src="images/interest.png" alt="ZNZ Logo" width = "880">
+
+### [Neural Pasis of multisensory learning and processing during child development (ChildBrainCircuits)](https://www.adabd.uzh.ch/en/research/path3.html)
+
+#### Supervisors
+Prof. Silvia Brem
+Nina Rauder
+
+### The process of habitization, its neural implementation and clinical application
+
+#### Supervisors
+Prof. Philippe Tobler
+Dr. Stephan Nebe
 
 
